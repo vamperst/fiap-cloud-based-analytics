@@ -1,3 +1,4 @@
+**Antes de começar, execute os passos abaixo para configurar o ambiente caso não tenha feito isso ainda na aula de HOJE: [Preparando Credenciais](../../00-create-codespaces/Inicio-de-aula.md)**
 
 Neste laboratório, você explorará funcionalidades avançadas do Apache Iceberg.
 

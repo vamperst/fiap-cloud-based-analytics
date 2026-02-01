@@ -1,6 +1,6 @@
 # 01.1 - Storage de objetos
 
-**Antes de começar, execute os passos abaixo para configurar o ambiente caso não tenha feito isso ainda na aula de HOJE: [Preparando Credenciais](../../01-create-codespaces/Inicio-de-aula.md)**
+**Antes de começar, execute os passos abaixo para configurar o ambiente caso não tenha feito isso ainda na aula de HOJE: [Preparando Credenciais](../../00-create-codespaces/Inicio-de-aula.md)**
 
 **Todos os comandos de terminal desse execício devem ser executados no Codespaces que você criou na configuração inicial.**
 

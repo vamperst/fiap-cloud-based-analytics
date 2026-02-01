@@ -1,3 +1,4 @@
+**Antes de começar, execute os passos abaixo para configurar o ambiente caso não tenha feito isso ainda na aula de HOJE: [Preparando Credenciais](../../00-create-codespaces/Inicio-de-aula.md)**
 Neste laboratório, você explorará como usar o Amazon Athena para consultar tabelas Iceberg.
 
 Observe que o Amazon Athena fornece suporte integrado para o Apache Iceberg, para que você possa ler e gravar em tabelas Iceberg sem adicionar nenhuma dependência ou configuração adicional. Isso é válido para Iceberg [tabelas v2]([https://iceberg.apache.org/spec/\#version\-2\-row\-level\-deletes](https://iceberg.apache.org/spec/#version-2-row-level-deletes)).
